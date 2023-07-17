@@ -1,0 +1,15 @@
+C:\Users\the warrior\notes\internshipProject\bin\Debug\net8.0\internshipProject.exe
+C:\Users\the warrior\notes\internshipProject\bin\Debug\net8.0\internshipProject.deps.json
+C:\Users\the warrior\notes\internshipProject\bin\Debug\net8.0\internshipProject.runtimeconfig.json
+C:\Users\the warrior\notes\internshipProject\bin\Debug\net8.0\internshipProject.dll
+C:\Users\the warrior\notes\internshipProject\bin\Debug\net8.0\internshipProject.pdb
+C:\Users\the warrior\notes\internshipProject\obj\Debug\net8.0\internshipProject.csproj.AssemblyReference.cache
+C:\Users\the warrior\notes\internshipProject\obj\Debug\net8.0\internshipProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\the warrior\notes\internshipProject\obj\Debug\net8.0\internshipProject.AssemblyInfoInputs.cache
+C:\Users\the warrior\notes\internshipProject\obj\Debug\net8.0\internshipProject.AssemblyInfo.cs
+C:\Users\the warrior\notes\internshipProject\obj\Debug\net8.0\internshipProject.csproj.CoreCompileInputs.cache
+C:\Users\the warrior\notes\internshipProject\obj\Debug\net8.0\internshipProject.dll
+C:\Users\the warrior\notes\internshipProject\obj\Debug\net8.0\refint\internshipProject.dll
+C:\Users\the warrior\notes\internshipProject\obj\Debug\net8.0\internshipProject.pdb
+C:\Users\the warrior\notes\internshipProject\obj\Debug\net8.0\internshipProject.genruntimeconfig.cache
+C:\Users\the warrior\notes\internshipProject\obj\Debug\net8.0\ref\internshipProject.dll
